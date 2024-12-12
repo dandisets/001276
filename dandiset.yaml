@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/001276
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.8/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -12,9 +13,9 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 41693751487
-  numberOfFiles: 104
-  numberOfSubjects: 52
+  numberOfBytes: 43187945760
+  numberOfFiles: 108
+  numberOfSubjects: 54
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -24,8 +25,8 @@ assetsSummary:
     name: Cricetulus griseus - Cricetulus aureus
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Silkuniene, Giedre (2024) NG-CANCAN remote targeting electroporation (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001276/draft
+citation: Silkuniene, Giedre (2024) Improving NG-CANCAN remote targeting electroporation
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001276/draft
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -36,15 +37,21 @@ contributor:
   schemaKey: Person
 dateCreated: '2024-12-09T18:39:13.817527+00:00'
 description: NG-CANCAN remote targeting electroporation
+ethicsApproval: []
 id: DANDI:001276/draft
 identifier: DANDI:001276
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001276/versions/draft/assets/
-name: NG-CANCAN remote targeting electroporation
+name: Improving NG-CANCAN remote targeting electroporation
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
+studyTarget: []
 url: https://dandiarchive.org/dandiset/001276/draft
 version: draft
+wasGeneratedBy: []
