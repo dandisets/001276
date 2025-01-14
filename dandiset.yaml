@@ -26,9 +26,10 @@ assetsSummary:
     name: Cricetulus griseus - Cricetulus aureus
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Silkuniene, Giedre; Silkunas, Mantas; Pakhomov, Andrei (2025) BURSTS Improving
-  NG-CANCAN remote targeting electroporation (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001276/draft
+citation: 'Silkuniene, Giedre; Silkunas, Mantas; Pakhomov, Andrei (2025) NG-CANCAN
+  Remote Targeting Electroporation: Impact of Burst Number Variation on Permeabilization
+  Distribution in Confluent Cell Monolayers (Version draft) [Data set]. DANDI Archive.
+  https://dandiarchive.org/dandiset/001276/draft'
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -59,7 +60,16 @@ contributor:
   schemaKey: Person
 - {}
 dateCreated: '2024-12-09T18:39:13.817527+00:00'
-description: NG-CANCAN remote targeting electroporation
+description: Experiments were conducted using a four-electrode array with an inter-electrode
+  distance of 10.0 mm. The study focused on optimizing the CANCAN protocol and investigating
+  the effect of varying burst numbers on permeabilization distribution across confluent
+  cell monolayers. The CANCAN protocols utilized canceling pulses to minimize cell
+  damage near the electrodes while targeting cells in the center of the electrode
+  array. Each single pulse in the protocol had a duration of 600 ns. The protocol
+  consisted of nine packets of pulses delivered at a frequency of 0.2 MHz and was
+  repeated 1, 2, 4, or 6 times at a frequency of 1 Hz. Cell monolayer integrity was
+  assessed using Hoechst staining, while membrane permeability was evaluated using
+  YoPro-1.
 ethicsApproval: []
 id: DANDI:001276/draft
 identifier: DANDI:001276
@@ -68,7 +78,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001276/versions/draft/assets/
-name: BURSTS Improving NG-CANCAN remote targeting electroporation
+name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Burst Number Variation
+  on Permeabilization Distribution in Confluent Cell Monolayers'
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
