@@ -69,7 +69,7 @@ description: Experiments were conducted using a four-electrode array with an int
   consisted of nine packets of pulses delivered at a frequency of 0.2 MHz and was
   repeated 1, 2, 4, or 6 times at a frequency of 1 Hz. Cell monolayer integrity was
   assessed using Hoechst staining, while membrane permeability was evaluated using
-  YoPro-1.
+  YoPro-1. This work was partially supported by NIH grant 1R21EY034258.
 ethicsApproval: []
 id: DANDI:001276/draft
 identifier: DANDI:001276
