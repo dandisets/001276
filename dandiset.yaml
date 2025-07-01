@@ -28,8 +28,8 @@ assetsSummary:
   variableMeasured: []
 citation: 'Silkuniene, Giedre; Silkunas, Mantas; Pakhomov, Andrei (2025) NG-CANCAN
   Remote Targeting Electroporation: Impact of Burst Number Variation on Permeabilization
-  Distribution in Confluent Cell Monolayers (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001276/draft'
+  Distribution in Confluent Cell Monolayers (Version 0.250701.1609) [Data set]. DANDI
+  Archive. https://doi.org/10.48324/dandi.001276/0.250701.1609'
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -76,13 +76,14 @@ description: Experiments were conducted using a four-electrode array with an int
   repeated 1, 2, 4, or 6 times at a frequency of 1 Hz. Cell monolayer integrity was
   assessed using Hoechst staining, while membrane permeability was evaluated using
   YoPro-1. This work was partially supported by NIH grant 1R21EY034258.
+doi: 10.48324/dandi.001276/0.250701.1609
 ethicsApproval: []
-id: DANDI:001276/draft
+id: DANDI:001276/0.250701.1609
 identifier: DANDI:001276
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001276/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001276/0.250701.1609/assets.yaml
 name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Burst Number Variation
   on Permeabilization Distribution in Confluent Cell Monolayers'
 publishedBy:
@@ -107,8 +108,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001276/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001276/0.250701.1609
+version: 0.250701.1609
 wasGeneratedBy:
 - identifier: NIH 1R21EY034258
   name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
