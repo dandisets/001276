@@ -65,6 +65,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-12-09T18:39:13.817527+00:00'
+datePublished: '2025-07-01T16:09:54.805192+00:00'
 description: Experiments were conducted using a four-electrode array with an inter-electrode
   distance of 10.0 mm. The study focused on optimizing the CANCAN protocol and investigating
   the effect of varying burst numbers on permeabilization distribution across confluent
@@ -84,6 +85,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001276/versions/draft/assets/
 name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Burst Number Variation
   on Permeabilization Distribution in Confluent Cell Monolayers'
+publishedBy:
+  endDate: '2025-07-01T16:09:54.805192+00:00'
+  id: urn:uuid:21fbd654-45aa-4d07-893e-99a2784a69d0
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-01T16:09:54.805192+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:d509fa8c-18a8-4e4b-8105-89208c8b9a7a
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi.org/10.1016/j.bioelechem.2025.109016
   name: MHz compression of pulse packets facilitates remote focusing of electroporation
